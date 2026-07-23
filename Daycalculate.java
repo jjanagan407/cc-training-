@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Daycalulate
+public class Daycalculate
 {
     public static void main(String[] args) {
  	    int d,m,y,sum =0;
