@@ -21,7 +21,7 @@ public class Method_overriding
 {
 	public static void main(String[] args) {
 	    operation op=new operation();
-	    operation ops=new operation();
+	    operations ops=new operations();
 	    Scanner sc=new Scanner(System.in);
 	    System.out.println(op.add(sc.nextInt(),sc.nextInt()));
 	    System.out.println(ops.add(sc.nextInt(),sc.nextInt()));
